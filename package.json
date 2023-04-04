@@ -1,0 +1,21 @@
+{
+  "name": "dodo_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "discord.js": "^14.3.0",
+    "mongodb": "^4.9.0",
+    "mongoose": "^6.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.13"
+  }
+}
